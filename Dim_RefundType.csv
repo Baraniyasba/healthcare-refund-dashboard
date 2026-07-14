@@ -1,0 +1,6 @@
+refund_type_id,refund_type_name,refund_category
+RT01,CC Refund,Card Refund
+RT02,IVR CC Refund,Card Refund
+RT03,Clover Refund,Card Refund
+RT04,Copay Refund,Patient Refund
+RT05,Refund Initiated,Pending Action

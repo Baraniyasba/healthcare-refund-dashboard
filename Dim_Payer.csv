@@ -1,0 +1,13 @@
+payer_id,payer_name,payer_type
+PY001,Blue Cross Blue Shield,Commercial
+PY002,UnitedHealthcare,Commercial
+PY003,Aetna,Commercial
+PY004,Cigna,Commercial
+PY005,Medicare,Government
+PY006,Medicaid,Government
+PY007,Humana,Commercial
+PY008,Anthem,Commercial
+PY009,Tricare,Government
+PY010,Self-Pay / Patient,Self-Pay
+PY011,Molina Healthcare,Commercial
+PY012,Centene,Commercial
